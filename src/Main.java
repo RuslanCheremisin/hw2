@@ -16,6 +16,8 @@ public class Main {
 
         boolean trueFalse = false;
 
+        char letter='a';
+
         //задача 2 про вес двух боксёров
 
         float boxer1Weight = 78.2f;
