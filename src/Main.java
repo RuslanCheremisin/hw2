@@ -14,6 +14,8 @@ public class Main {
         float withPoint = 0.1f;
         double withLotsOfZerosBehindPoint = 0.00000000000000002;
 
+        boolean trueFalse=false;
+
         //задача 2 про вес двух боксёров
 
         float boxer1Weight = 78.2f;
